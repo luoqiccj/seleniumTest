@@ -1,0 +1,1617 @@
+2020-07-27 09:55:55,286-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 09:55:55,288-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 09:55:55,289-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 09:55:55,289-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 09:55:55,289-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:55:55,289-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 09:55:55,289-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 09:56:00,856-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:56:00,856-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 09:56:00,856-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:56:00,856-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 09:56:00,856-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 09:56:00,857-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 09:56:00,857-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 09:56:00,857-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:56:00,857-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 09:56:00,857-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 09:56:01,694-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:56:01,694-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 09:56:01,694-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:56:01,694-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 09:56:01,694-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 09:56:01,695-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 09:56:01,695-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 09:56:01,695-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 09:56:01,695-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 09:56:01,695-keywordcase.py[53]-INFO-run_method:send_value =es_superadmin
+2020-07-27 09:56:01,695-keywordcase.py[56]-INFO-run_method:handle_value =username
+2020-07-27 09:56:01,983-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:56:01,984-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 09:56:01,984-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:56:01,984-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 09:56:01,984-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 09:56:01,984-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 09:56:01,984-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 09:56:01,984-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 09:56:01,985-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 09:56:01,985-keywordcase.py[53]-INFO-run_method:send_value =123456
+2020-07-27 09:56:01,985-keywordcase.py[56]-INFO-run_method:handle_value =password
+2020-07-27 09:56:02,087-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:56:02,087-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 09:56:02,087-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:56:02,087-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 09:56:02,088-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 09:56:02,088-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 09:56:02,088-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 09:56:02,088-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:56:02,088-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 09:56:02,088-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 09:56:02,187-operate_excel.py[43]-INFO-get_cell_data:get_element
+2020-07-27 09:56:02,188-keywordcase.py[32]-INFO-run_main:expect_method=get_element
+2020-07-27 09:56:02,188-operate_excel.py[43]-INFO-get_cell_data:element=//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 09:56:02,189-keywordcase.py[35]-INFO-run_main:expect_value = ['element', '//*[@id', '"app"]/div/div[1]/div[1]/a/h1']
+2020-07-27 09:56:02,189-keywordcase.py[53]-INFO-run_method:send_value =//*[@id
+2020-07-27 09:59:25,631-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 09:59:25,631-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 09:59:25,631-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 09:59:25,632-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 09:59:25,632-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:25,632-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 09:59:25,632-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 09:59:30,813-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:30,813-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 09:59:30,813-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:30,813-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 09:59:30,813-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 09:59:30,813-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 09:59:30,814-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 09:59:30,814-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:30,814-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 09:59:30,814-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 09:59:31,511-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:31,511-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 09:59:31,511-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:31,511-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 09:59:31,511-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 09:59:31,511-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 09:59:31,511-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 09:59:31,511-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 09:59:31,512-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 09:59:31,512-keywordcase.py[53]-INFO-run_method:send_value =es_superadmin
+2020-07-27 09:59:31,512-keywordcase.py[56]-INFO-run_method:handle_value =username
+2020-07-27 09:59:31,701-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:31,701-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 09:59:31,701-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:31,701-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 09:59:31,701-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 09:59:31,702-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 09:59:31,702-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 09:59:31,702-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 09:59:31,702-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 09:59:31,702-keywordcase.py[53]-INFO-run_method:send_value =123456
+2020-07-27 09:59:31,702-keywordcase.py[56]-INFO-run_method:handle_value =password
+2020-07-27 09:59:31,839-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:31,839-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 09:59:31,840-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:31,840-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 09:59:31,840-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 09:59:31,840-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 09:59:31,840-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 09:59:31,840-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 09:59:31,840-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 09:59:31,840-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 09:59:31,910-operate_excel.py[43]-INFO-get_cell_data:get_element
+2020-07-27 09:59:31,911-keywordcase.py[32]-INFO-run_main:expect_method=get_element
+2020-07-27 09:59:31,911-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 09:59:31,911-keywordcase.py[35]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/h1']
+2020-07-27 09:59:31,911-keywordcase.py[53]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 10:04:58,649-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:04:58,650-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:04:58,650-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:04:58,650-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:04:58,650-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:04:58,650-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:04:58,650-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 10:05:03,884-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:05:03,884-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 10:05:03,884-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:05:03,884-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 10:05:03,885-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:05:03,885-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:05:03,885-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:05:03,885-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:05:03,885-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:05:03,885-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 10:05:04,550-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:05:04,551-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 10:05:04,551-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:05:04,551-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 10:05:04,551-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:05:04,551-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:05:04,551-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:05:04,551-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:05:04,551-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:05:04,551-keywordcase.py[53]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:05:04,551-keywordcase.py[56]-INFO-run_method:handle_value =username
+2020-07-27 10:05:04,728-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:05:04,728-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 10:05:04,728-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:05:04,728-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 10:05:04,728-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:05:04,728-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:05:04,728-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:05:04,728-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:05:04,728-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:05:04,729-keywordcase.py[53]-INFO-run_method:send_value =123456
+2020-07-27 10:05:04,729-keywordcase.py[56]-INFO-run_method:handle_value =password
+2020-07-27 10:05:04,855-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:05:04,855-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 10:05:04,856-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:05:04,856-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 10:05:04,856-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:05:04,856-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:05:04,856-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:05:04,856-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:05:04,856-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:05:04,856-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 10:05:04,927-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:05:04,927-keywordcase.py[32]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:05:04,927-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 10:05:04,927-keywordcase.py[35]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/h1']
+2020-07-27 10:05:04,928-keywordcase.py[53]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 10:06:51,636-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:06:51,636-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:06:51,637-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:06:51,637-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:06:51,637-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:51,637-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:06:51,637-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 10:06:56,886-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:56,886-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 10:06:56,887-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:56,887-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 10:06:56,887-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:06:56,887-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:06:56,887-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:06:56,887-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:56,887-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:06:56,887-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 10:06:57,529-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:57,529-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 10:06:57,529-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:57,530-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 10:06:57,530-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:06:57,530-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:06:57,530-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:06:57,530-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:06:57,530-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:06:57,530-keywordcase.py[53]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:06:57,531-keywordcase.py[56]-INFO-run_method:handle_value =username
+2020-07-27 10:06:57,739-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:57,739-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 10:06:57,739-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:57,739-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 10:06:57,740-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:06:57,740-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:06:57,740-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:06:57,740-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:06:57,740-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:06:57,740-keywordcase.py[53]-INFO-run_method:send_value =123456
+2020-07-27 10:06:57,740-keywordcase.py[56]-INFO-run_method:handle_value =password
+2020-07-27 10:06:57,886-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:57,886-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 10:06:57,886-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:57,886-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 10:06:57,886-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:06:57,886-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:06:57,886-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:06:57,886-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:57,886-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:06:57,887-keywordcase.py[53]-INFO-run_method:send_value =
+2020-07-27 10:06:57,986-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:57,986-keywordcase.py[32]-INFO-run_main:expect_method=
+2020-07-27 10:06:57,986-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:57,986-keywordcase.py[35]-INFO-run_main:expect_value = ['']
+2020-07-27 10:06:57,986-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:06:57,987-keywordcase.py[25]-INFO-run_main:is_run = y
+2020-07-27 10:06:57,987-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:06:57,987-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:06:57,987-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:06:57,988-keywordcase.py[53]-INFO-run_method:send_value =2.0
+2020-07-27 10:06:59,989-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:06:59,989-keywordcase.py[32]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:06:59,989-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 10:06:59,989-keywordcase.py[35]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/h1']
+2020-07-27 10:06:59,989-keywordcase.py[53]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 10:08:20,712-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:08:20,713-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:20,713-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:20,713-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:08:20,713-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:20,713-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:08:20,713-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:08:25,919-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:25,919-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:25,919-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:25,919-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:08:25,919-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:25,919-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:25,919-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:08:25,919-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:25,919-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:08:25,919-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:08:26,534-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:26,535-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:26,535-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:26,535-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:08:26,535-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:26,535-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:26,535-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:08:26,535-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:08:26,535-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:08:26,535-keywordcase.py[54]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:08:26,535-keywordcase.py[57]-INFO-run_method:handle_value =username
+2020-07-27 10:08:26,709-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:26,709-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:26,709-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:26,710-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:08:26,710-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:26,710-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:26,710-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:08:26,710-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:08:26,710-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:08:26,710-keywordcase.py[54]-INFO-run_method:send_value =123456
+2020-07-27 10:08:26,710-keywordcase.py[57]-INFO-run_method:handle_value =password
+2020-07-27 10:08:26,827-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:26,828-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:26,828-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:26,828-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:08:26,828-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:26,828-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:26,828-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:08:26,828-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:26,828-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:08:26,828-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:08:26,908-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:26,908-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:26,908-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:26,909-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:08:26,909-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:26,909-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:26,909-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:08:26,909-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:08:26,909-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:26,909-keywordcase.py[54]-INFO-run_method:send_value =2.0
+2020-07-27 10:08:28,909-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:08:28,909-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:08:28,909-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 10:08:28,909-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/h1']
+2020-07-27 10:08:28,909-keywordcase.py[54]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 10:08:38,605-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:08:38,605-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:38,605-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:38,605-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:08:38,605-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:38,606-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:08:38,606-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:08:43,808-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:43,809-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:43,809-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:43,810-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:08:43,811-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:43,812-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:43,812-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:08:43,813-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:43,814-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:08:43,814-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:08:44,386-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:44,386-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:44,386-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:44,386-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:08:44,386-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:44,387-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:44,387-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:08:44,387-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:08:44,387-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:08:44,387-keywordcase.py[54]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:08:44,387-keywordcase.py[57]-INFO-run_method:handle_value =username
+2020-07-27 10:08:44,554-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:44,554-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:44,554-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:44,554-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:08:44,554-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:44,554-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:44,555-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:08:44,555-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:08:44,555-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:08:44,555-keywordcase.py[54]-INFO-run_method:send_value =123456
+2020-07-27 10:08:44,555-keywordcase.py[57]-INFO-run_method:handle_value =password
+2020-07-27 10:08:44,665-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:44,665-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:44,665-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:44,665-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:08:44,665-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:44,665-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:44,665-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:08:44,665-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:44,666-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:08:44,666-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:08:44,776-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:44,777-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:44,777-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:44,777-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:08:44,777-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:44,777-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:44,778-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:08:44,778-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:08:44,778-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:44,778-keywordcase.py[54]-INFO-run_method:send_value =2.0
+2020-07-27 10:08:46,779-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:08:46,779-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:08:46,780-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 10:08:46,780-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/h1']
+2020-07-27 10:08:46,780-keywordcase.py[54]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/h1
+2020-07-27 10:08:46,831-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:08:46,832-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:08:46,832-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:08:46,832-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:46,833-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:46,833-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:08:46,891-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:46,891-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:08:46,892-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:08:46,892-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:09:59,885-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:09:59,886-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:09:59,886-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:09:59,886-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:09:59,886-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:09:59,886-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:09:59,886-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:10:05,080-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,080-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:10:05,080-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,080-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:10:05,080-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:10:05,080-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:10:05,081-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:10:05,081-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,081-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:10:05,081-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:10:05,611-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,611-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:10:05,611-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,611-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:10:05,611-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:10:05,611-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:10:05,611-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:10:05,611-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:10:05,611-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:10:05,612-keywordcase.py[54]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:10:05,612-keywordcase.py[57]-INFO-run_method:handle_value =username
+2020-07-27 10:10:05,777-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,777-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:10:05,777-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,777-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:10:05,777-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:10:05,777-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:10:05,777-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:10:05,777-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:10:05,777-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:10:05,777-keywordcase.py[54]-INFO-run_method:send_value =123456
+2020-07-27 10:10:05,778-keywordcase.py[57]-INFO-run_method:handle_value =password
+2020-07-27 10:10:05,887-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,887-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:10:05,888-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,888-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:10:05,888-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:10:05,888-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:10:05,888-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:10:05,888-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,888-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:10:05,888-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:10:05,982-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,983-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:10:05,983-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,983-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:10:05,983-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:10:05,983-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:10:05,983-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:10:05,983-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:10:05,984-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:05,984-keywordcase.py[54]-INFO-run_method:send_value =2.0
+2020-07-27 10:10:07,985-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:10:07,985-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:10:07,985-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[2]/div[1]/a/h1
+2020-07-27 10:10:07,985-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[2]/div[1]/a/h1']
+2020-07-27 10:10:07,985-keywordcase.py[54]-INFO-run_method:send_value =//*[@id="app"]/div/div[2]/div[1]/a/h1
+2020-07-27 10:10:59,952-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:10:59,952-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:10:59,953-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:10:59,953-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:10:59,953-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:10:59,953-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:10:59,953-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:11:05,143-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:05,143-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:11:05,143-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:05,143-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:11:05,144-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:11:05,144-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:11:05,144-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:11:05,144-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:05,144-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:11:05,145-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:11:05,814-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:05,814-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:11:05,814-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:05,814-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:11:05,814-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:11:05,814-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:11:05,815-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:11:05,815-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:11:05,815-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:11:05,815-keywordcase.py[54]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:11:05,815-keywordcase.py[57]-INFO-run_method:handle_value =username
+2020-07-27 10:11:05,985-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:05,985-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:11:05,985-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:05,985-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:11:05,985-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:11:05,985-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:11:05,985-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:11:05,985-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:11:05,985-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:11:05,985-keywordcase.py[54]-INFO-run_method:send_value =123456
+2020-07-27 10:11:05,985-keywordcase.py[57]-INFO-run_method:handle_value =password
+2020-07-27 10:11:06,110-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:06,110-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:11:06,110-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:06,110-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:11:06,110-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:11:06,110-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:11:06,111-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:11:06,111-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:06,111-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:11:06,111-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:11:06,194-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:06,194-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:11:06,194-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:06,194-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:11:06,195-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:11:06,195-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:11:06,195-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:11:06,195-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:11:06,195-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:11:06,195-keywordcase.py[54]-INFO-run_method:send_value =2.0
+2020-07-27 10:11:08,196-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:11:08,196-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:11:08,197-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[2]/div[1]/a/h1
+2020-07-27 10:11:08,197-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[2]/div[1]/a/h1']
+2020-07-27 10:11:08,197-keywordcase.py[54]-INFO-run_method:send_value =//*[@id="app"]/div/div[2]/div[1]/a/h1
+2020-07-27 10:12:47,261-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:12:47,261-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:12:47,261-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:12:47,262-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:12:47,262-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:47,262-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:12:47,262-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:12:52,478-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:52,478-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:12:52,478-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:52,478-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:12:52,479-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:12:52,479-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:12:52,479-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:12:52,479-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:52,479-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:12:52,479-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:12:53,169-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:53,170-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:12:53,170-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:53,170-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:12:53,170-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:12:53,170-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:12:53,170-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:12:53,171-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:12:53,171-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:12:53,171-keywordcase.py[54]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:12:53,171-keywordcase.py[57]-INFO-run_method:handle_value =username
+2020-07-27 10:12:53,361-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:53,361-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:12:53,362-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:53,362-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:12:53,362-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:12:53,362-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:12:53,362-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:12:53,362-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:12:53,362-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:12:53,363-keywordcase.py[54]-INFO-run_method:send_value =123456
+2020-07-27 10:12:53,363-keywordcase.py[57]-INFO-run_method:handle_value =password
+2020-07-27 10:12:53,480-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:53,480-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:12:53,480-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:53,480-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:12:53,480-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:12:53,480-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:12:53,480-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:12:53,480-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:53,481-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:12:53,481-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:12:53,556-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:53,556-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:12:53,557-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:53,557-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:12:53,557-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:12:53,557-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:12:53,557-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:12:53,557-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:12:53,558-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:53,558-keywordcase.py[54]-INFO-run_method:send_value =2.0
+2020-07-27 10:12:55,559-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:12:55,559-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:12:55,559-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:12:55,559-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:12:55,559-keywordcase.py[54]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:12:55,574-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:12:55,574-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:12:55,574-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:12:55,574-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:55,575-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:55,575-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:12:55,627-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:55,628-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:12:55,628-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:12:55,628-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:18:10,924-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:18:10,925-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:18:10,925-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:18:10,925-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:18:10,926-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:10,926-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:18:10,926-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:18:16,221-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:16,221-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:18:16,221-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:16,221-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:18:16,221-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:18:16,221-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:18:16,222-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:18:16,222-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:16,222-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:18:16,222-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:18:16,795-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:16,795-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:18:16,795-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:16,795-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:18:16,796-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:18:16,796-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:18:16,796-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:18:16,796-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:18:16,796-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:18:16,796-keywordcase.py[54]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:18:16,796-keywordcase.py[57]-INFO-run_method:handle_value =username
+2020-07-27 10:18:16,963-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:16,963-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:18:16,963-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:16,963-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:18:16,963-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:18:16,963-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:18:16,963-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:18:16,963-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:18:16,963-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:18:16,963-keywordcase.py[54]-INFO-run_method:send_value =123456
+2020-07-27 10:18:16,963-keywordcase.py[57]-INFO-run_method:handle_value =password
+2020-07-27 10:18:17,073-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:17,073-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:18:17,073-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:17,073-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:18:17,073-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:18:17,073-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:18:17,073-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:18:17,073-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:17,073-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:18:17,073-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:18:17,181-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:17,182-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:18:17,182-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:17,182-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:18:17,183-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:18:17,183-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:18:17,183-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:18:17,183-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:18:17,184-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:17,184-keywordcase.py[54]-INFO-run_method:send_value =2.0
+2020-07-27 10:18:19,185-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:18:19,185-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:18:19,185-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:18:19,185-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:18:19,185-keywordcase.py[54]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:18:19,200-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:18:19,200-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:18:19,200-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:18:19,200-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:19,200-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:19,200-keywordcase.py[54]-INFO-run_method:send_value =
+2020-07-27 10:18:19,270-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:19,270-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:18:19,270-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:18:19,270-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:19:13,631-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:19:13,631-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:19:13,631-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:19:13,632-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:19:13,632-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:13,632-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:19:13,632-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:19:18,865-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:18,865-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:19:18,865-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:18,865-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:19:18,865-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:19:18,865-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:19:18,865-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:19:18,865-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:18,866-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:19:18,866-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:19:19,550-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:19,551-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:19:19,551-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:19,551-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:19:19,551-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:19:19,551-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:19:19,551-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:19:19,551-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:19:19,551-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:19:19,551-keywordcase.py[55]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:19:19,551-keywordcase.py[58]-INFO-run_method:handle_value =username
+2020-07-27 10:19:19,704-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:19,704-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:19:19,704-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:19,704-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:19:19,704-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:19:19,704-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:19:19,704-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:19:19,704-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:19:19,705-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:19:19,705-keywordcase.py[55]-INFO-run_method:send_value =123456
+2020-07-27 10:19:19,705-keywordcase.py[58]-INFO-run_method:handle_value =password
+2020-07-27 10:19:19,805-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:19,806-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:19:19,806-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:19,807-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:19:19,807-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:19:19,807-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:19:19,808-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:19:19,808-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:19,808-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:19:19,809-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:19:19,939-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:19,939-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:19:19,939-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:19,939-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:19:19,940-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:19:19,940-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:19:19,940-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:19:19,940-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:19:19,940-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:19,940-keywordcase.py[55]-INFO-run_method:send_value =2.0
+2020-07-27 10:19:21,941-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:19:21,941-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:19:21,941-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:19:21,941-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:19:21,941-keywordcase.py[55]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:19:21,959-keywordcase.py[40]-INFO-run_main:res =None
+2020-07-27 10:19:21,962-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:19:21,962-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:19:21,962-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:19:21,962-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:21,962-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:21,963-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:19:22,012-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:22,012-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:19:22,012-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:19:22,012-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:22:39,230-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:22:39,231-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:22:39,231-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:22:39,231-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:22:39,231-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:39,231-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:22:39,231-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:22:44,443-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:44,443-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:22:44,443-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:44,444-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:22:44,444-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:22:44,444-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:22:44,445-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:22:44,445-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:44,446-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:22:44,446-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:22:45,008-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:45,008-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:22:45,008-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:45,008-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:22:45,009-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:22:45,009-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:22:45,009-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:22:45,009-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:22:45,009-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:22:45,009-keywordcase.py[55]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:22:45,009-keywordcase.py[58]-INFO-run_method:handle_value =username
+2020-07-27 10:22:45,169-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:45,169-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:22:45,169-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:45,169-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:22:45,169-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:22:45,169-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:22:45,169-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:22:45,170-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:22:45,170-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:22:45,170-keywordcase.py[55]-INFO-run_method:send_value =123456
+2020-07-27 10:22:45,170-keywordcase.py[58]-INFO-run_method:handle_value =password
+2020-07-27 10:22:45,283-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:45,283-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:22:45,283-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:45,283-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:22:45,283-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:22:45,283-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:22:45,283-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:22:45,283-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:45,283-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:22:45,283-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:22:45,367-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:45,367-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:22:45,367-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:45,367-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:22:45,367-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:22:45,368-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:22:45,368-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:22:45,368-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:22:45,368-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:45,368-keywordcase.py[55]-INFO-run_method:send_value =2.0
+2020-07-27 10:22:47,369-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:22:47,369-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:22:47,370-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:22:47,370-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:22:47,371-keywordcase.py[55]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:22:47,420-keywordcase.py[40]-INFO-run_main:res =None
+2020-07-27 10:22:47,432-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:22:47,433-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:22:47,433-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:22:47,433-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:47,433-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:47,433-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:22:47,520-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:47,521-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:22:47,521-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:22:47,521-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:23:20,820-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:23:20,820-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:23:20,820-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:23:20,821-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:23:20,821-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:20,821-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:23:20,821-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:23:26,038-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:26,039-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:23:26,039-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:26,039-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:23:26,040-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:23:26,040-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:23:26,041-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:23:26,041-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:26,041-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:23:26,041-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:23:26,624-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:26,625-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:23:26,625-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:26,625-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:23:26,625-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:23:26,625-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:23:26,626-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:23:26,626-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:23:26,626-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:23:26,626-keywordcase.py[55]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:23:26,626-keywordcase.py[58]-INFO-run_method:handle_value =username
+2020-07-27 10:23:26,820-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:26,820-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:23:26,820-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:26,820-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:23:26,820-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:23:26,820-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:23:26,821-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:23:26,821-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:23:26,821-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:23:26,821-keywordcase.py[55]-INFO-run_method:send_value =123456
+2020-07-27 10:23:26,821-keywordcase.py[58]-INFO-run_method:handle_value =password
+2020-07-27 10:23:26,972-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:26,972-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:23:26,972-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:26,972-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:23:26,972-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:23:26,973-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:23:26,973-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:23:26,973-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:26,973-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:23:26,973-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:23:27,061-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:27,061-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:23:27,062-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:27,062-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:23:27,062-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:23:27,062-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:23:27,062-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:23:27,062-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:23:27,062-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:27,063-keywordcase.py[55]-INFO-run_method:send_value =2.0
+2020-07-27 10:23:29,063-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:23:29,063-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:23:29,063-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:23:29,063-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:23:29,063-keywordcase.py[55]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:23:29,078-keywordcase.py[40]-INFO-run_main:res =None
+2020-07-27 10:23:29,082-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:23:29,082-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:23:29,082-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:23:29,082-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:29,082-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:29,083-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:23:29,154-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:29,155-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:23:29,155-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:23:29,155-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:26:04,944-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:26:04,944-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:26:04,944-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:26:04,945-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:26:04,945-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:04,945-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:26:04,945-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:26:10,168-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:10,168-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:26:10,168-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:10,168-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:26:10,168-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:26:10,169-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:26:10,169-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:26:10,169-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:10,169-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:26:10,169-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:26:10,844-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:10,845-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:26:10,845-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:10,845-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:26:10,845-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:26:10,845-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:26:10,845-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:26:10,845-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:26:10,845-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:26:10,845-keywordcase.py[55]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:26:10,846-keywordcase.py[58]-INFO-run_method:handle_value =username
+2020-07-27 10:26:11,001-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:11,001-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:26:11,001-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:11,001-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:26:11,001-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:26:11,001-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:26:11,001-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:26:11,002-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:26:11,002-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:26:11,002-keywordcase.py[55]-INFO-run_method:send_value =123456
+2020-07-27 10:26:11,003-keywordcase.py[58]-INFO-run_method:handle_value =password
+2020-07-27 10:26:11,125-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:11,125-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:26:11,125-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:11,125-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:26:11,125-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:26:11,125-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:26:11,125-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:26:11,125-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:11,126-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:26:11,126-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:26:11,217-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:11,217-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:26:11,217-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:11,218-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:26:11,218-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:26:11,218-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:26:11,218-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:26:11,218-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:26:11,218-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:11,218-keywordcase.py[55]-INFO-run_method:send_value =2.0
+2020-07-27 10:26:13,219-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:26:13,219-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:26:13,219-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:26:13,219-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:26:13,219-keywordcase.py[55]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:26:13,240-keywordcase.py[40]-INFO-run_main:res =None
+2020-07-27 10:26:13,242-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:26:13,242-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:26:13,243-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:26:13,243-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:13,243-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:13,243-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:26:13,298-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:13,298-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:26:13,298-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:26:13,299-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:28:06,081-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:28:06,082-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:28:06,082-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:28:06,082-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:28:06,082-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:06,082-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:28:06,082-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:28:11,301-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:11,302-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:28:11,302-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:11,302-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:28:11,302-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:28:11,303-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:28:11,303-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:28:11,303-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:11,303-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:28:11,303-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:28:11,850-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:11,850-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:28:11,851-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:11,851-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:28:11,851-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:28:11,851-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:28:11,851-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:28:11,851-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:28:11,851-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:28:11,851-keywordcase.py[55]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:28:11,851-keywordcase.py[58]-INFO-run_method:handle_value =username
+2020-07-27 10:28:12,029-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:12,029-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:28:12,030-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:12,030-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:28:12,030-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:28:12,030-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:28:12,030-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:28:12,031-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:28:12,031-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:28:12,031-keywordcase.py[55]-INFO-run_method:send_value =123456
+2020-07-27 10:28:12,031-keywordcase.py[58]-INFO-run_method:handle_value =password
+2020-07-27 10:28:12,138-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:12,138-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:28:12,138-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:12,139-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:28:12,139-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:28:12,139-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:28:12,139-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:28:12,139-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:12,139-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:28:12,139-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:28:12,228-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:12,228-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:28:12,228-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:12,228-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:28:12,228-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:28:12,228-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:28:12,228-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:28:12,229-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:28:12,229-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:12,229-keywordcase.py[55]-INFO-run_method:send_value =2.0
+2020-07-27 10:28:14,230-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:28:14,230-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:28:14,230-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:28:14,230-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:28:14,230-keywordcase.py[55]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:28:14,249-keywordcase.py[40]-INFO-run_main:res =None
+2020-07-27 10:28:14,252-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:28:14,252-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:28:14,252-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:28:14,252-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:14,252-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:14,252-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:28:14,305-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:14,305-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:28:14,305-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:28:14,305-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:29:21,653-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:29:21,654-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:29:21,654-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:29:21,654-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:29:21,654-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:21,654-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:29:21,654-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:29:26,860-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:26,861-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:29:26,861-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:26,861-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:29:26,861-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:29:26,861-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:29:26,862-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:29:26,862-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:26,862-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:29:26,862-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:29:27,391-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:27,391-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:29:27,391-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:27,391-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:29:27,391-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:29:27,391-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:29:27,391-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:29:27,391-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:29:27,392-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:29:27,392-keywordcase.py[55]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:29:27,392-keywordcase.py[58]-INFO-run_method:handle_value =username
+2020-07-27 10:29:27,554-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:27,554-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:29:27,554-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:27,555-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:29:27,555-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:29:27,555-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:29:27,555-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:29:27,555-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:29:27,555-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:29:27,555-keywordcase.py[55]-INFO-run_method:send_value =123456
+2020-07-27 10:29:27,555-keywordcase.py[58]-INFO-run_method:handle_value =password
+2020-07-27 10:29:27,668-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:27,668-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:29:27,668-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:27,668-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:29:27,668-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:29:27,668-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:29:27,668-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:29:27,668-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:27,668-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:29:27,668-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:29:27,771-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:27,771-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:29:27,771-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:27,771-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:29:27,772-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:29:27,772-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:29:27,772-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:29:27,772-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:29:27,772-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:27,772-keywordcase.py[55]-INFO-run_method:send_value =2.0
+2020-07-27 10:29:29,774-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:29:29,774-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:29:29,774-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:29:29,774-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:29:29,774-keywordcase.py[55]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:29:29,793-keywordcase.py[40]-INFO-run_main:res =<selenium.webdriver.remote.webelement.WebElement (session="f07ec5ea29eee7de2b571fc1f72488a8", element="4188039f-3529-4284-a80b-438c52c79901")>
+2020-07-27 10:29:29,796-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:29:29,796-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:29:29,797-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:29:29,797-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:29,797-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:29,797-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:29:29,860-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:29,861-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:29:29,861-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:29:29,862-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:30:05,014-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:30:05,014-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:30:05,014-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:30:05,014-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:30:05,014-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:05,014-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:30:05,014-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:30:10,239-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:10,240-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:30:10,241-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:10,241-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:30:10,242-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:30:10,242-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:30:10,242-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:30:10,243-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:10,243-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:30:10,243-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:30:10,806-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:10,806-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:30:10,806-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:10,806-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:30:10,806-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:30:10,806-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:30:10,806-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:30:10,806-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:30:10,807-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:30:10,807-keywordcase.py[55]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:30:10,807-keywordcase.py[58]-INFO-run_method:handle_value =username
+2020-07-27 10:30:10,958-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:10,958-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:30:10,958-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:10,958-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:30:10,958-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:30:10,958-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:30:10,958-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:30:10,958-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:30:10,958-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:30:10,958-keywordcase.py[55]-INFO-run_method:send_value =123456
+2020-07-27 10:30:10,958-keywordcase.py[58]-INFO-run_method:handle_value =password
+2020-07-27 10:30:11,062-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:11,062-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:30:11,062-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:11,062-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:30:11,062-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:30:11,062-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:30:11,062-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:30:11,062-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:11,062-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:30:11,062-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:30:11,138-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:11,138-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:30:11,138-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:11,138-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:30:11,139-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:30:11,139-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:30:11,139-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:30:11,139-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:30:11,139-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:11,139-keywordcase.py[55]-INFO-run_method:send_value =2.0
+2020-07-27 10:30:13,139-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:30:13,139-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:30:13,139-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:30:13,139-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:30:13,140-keywordcase.py[55]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:30:13,165-keywordcase.py[40]-INFO-run_main:res =<selenium.webdriver.remote.webelement.WebElement (session="a221d19c0577cb6cc3bab2044915d937", element="34806465-0a40-423f-88e4-89821b55060c")>
+2020-07-27 10:30:13,171-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:30:13,171-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:30:13,171-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:30:13,171-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:13,172-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:13,172-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:30:13,251-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:13,252-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:30:13,252-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:30:13,252-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:14,516-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:59:14,516-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:14,516-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:14,516-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:59:14,516-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:14,516-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:59:14,516-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:59:19,820-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:19,820-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:19,820-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:19,820-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:19,820-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:19,820-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:19,820-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:59:19,820-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:19,820-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:59:19,820-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:59:20,416-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:20,417-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:20,417-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:20,417-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:20,417-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:20,417-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:20,417-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:59:20,418-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:59:20,418-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:59:20,418-keywordcase.py[55]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:59:20,418-keywordcase.py[58]-INFO-run_method:handle_value =username
+2020-07-27 10:59:20,592-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:20,593-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:20,593-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:20,593-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:20,593-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:20,593-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:20,593-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:59:20,593-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:59:20,593-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:59:20,593-keywordcase.py[55]-INFO-run_method:send_value =123456
+2020-07-27 10:59:20,593-keywordcase.py[58]-INFO-run_method:handle_value =password
+2020-07-27 10:59:20,707-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:20,707-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:20,707-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:20,707-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:20,707-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:20,707-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:20,707-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:59:20,707-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:20,707-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:59:20,707-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:59:20,802-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:20,802-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:20,802-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:20,802-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:20,802-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:20,802-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:20,803-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:59:20,803-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:59:20,803-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:20,803-keywordcase.py[55]-INFO-run_method:send_value =2.0
+2020-07-27 10:59:22,804-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:59:22,804-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:59:22,804-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:59:22,804-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:59:22,805-keywordcase.py[55]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:59:22,831-keywordcase.py[40]-INFO-run_main:res =<selenium.webdriver.remote.webelement.WebElement (session="9398fb3088ab6596a87b5b8837719afb", element="f4325d1c-cfe5-4c8d-bda0-541d33eee0f3")>
+2020-07-27 10:59:30,378-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 10:59:30,378-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:30,378-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:30,378-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 10:59:30,378-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:30,379-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 10:59:30,379-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:59:35,566-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:35,567-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:35,567-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:35,567-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:35,567-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:35,567-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:35,567-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 10:59:35,567-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:35,567-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 10:59:35,567-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:59:36,244-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:36,244-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:36,244-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:36,244-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:36,244-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:36,244-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:36,244-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:59:36,245-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 10:59:36,245-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 10:59:36,245-keywordcase.py[55]-INFO-run_method:send_value =es_superadmin
+2020-07-27 10:59:36,245-keywordcase.py[58]-INFO-run_method:handle_value =username
+2020-07-27 10:59:36,440-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:36,441-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:36,441-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:36,441-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:36,441-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:36,441-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:36,441-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 10:59:36,441-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 10:59:36,441-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 10:59:36,441-keywordcase.py[55]-INFO-run_method:send_value =123456
+2020-07-27 10:59:36,441-keywordcase.py[58]-INFO-run_method:handle_value =password
+2020-07-27 10:59:36,563-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:36,563-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:36,563-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:36,563-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:36,564-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:36,564-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:36,564-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 10:59:36,564-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:36,564-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 10:59:36,564-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:59:36,648-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:36,648-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:36,648-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:36,648-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 10:59:36,648-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:36,649-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:36,649-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 10:59:36,649-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 10:59:36,649-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:36,649-keywordcase.py[55]-INFO-run_method:send_value =2.0
+2020-07-27 10:59:38,650-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 10:59:38,650-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 10:59:38,650-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:59:38,650-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 10:59:38,650-keywordcase.py[55]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 10:59:38,662-keywordcase.py[40]-INFO-run_main:res =<selenium.webdriver.remote.webelement.WebElement (session="e3cc92de3b10847a0c49d07eeb1dd489", element="ee31cc57-e807-4b6e-85fb-b965a932aa95")>
+2020-07-27 10:59:38,665-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 10:59:38,665-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 10:59:38,666-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 10:59:38,666-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:38,666-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:38,666-keywordcase.py[55]-INFO-run_method:send_value =
+2020-07-27 10:59:38,731-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:38,731-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 10:59:38,732-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 10:59:38,732-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:00:57,022-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 11:00:57,022-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:00:57,022-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:00:57,022-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 11:00:57,022-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:00:57,022-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 11:00:57,022-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:01:02,228-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:02,228-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:01:02,229-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:02,229-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:01:02,229-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:01:02,229-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:01:02,229-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 11:01:02,229-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:02,229-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 11:01:02,229-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:01:02,792-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:02,793-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:01:02,793-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:02,793-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:01:02,793-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:01:02,793-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:01:02,793-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 11:01:02,793-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 11:01:02,794-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 11:01:02,794-keywordcase.py[56]-INFO-run_method:send_value =es_superadmin
+2020-07-27 11:01:02,794-keywordcase.py[59]-INFO-run_method:handle_value =username
+2020-07-27 11:01:02,956-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:02,956-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:01:02,956-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:02,956-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:01:02,956-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:01:02,956-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:01:02,956-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 11:01:02,956-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 11:01:02,956-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 11:01:02,956-keywordcase.py[56]-INFO-run_method:send_value =123456
+2020-07-27 11:01:02,956-keywordcase.py[59]-INFO-run_method:handle_value =password
+2020-07-27 11:01:03,073-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:03,073-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:01:03,073-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:03,073-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:01:03,073-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:01:03,073-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:01:03,073-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 11:01:03,073-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:03,073-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 11:01:03,073-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:01:03,159-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:03,159-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:01:03,159-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:03,159-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:01:03,159-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:01:03,160-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:01:03,160-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 11:01:03,160-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 11:01:03,160-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:03,160-keywordcase.py[56]-INFO-run_method:send_value =2.0
+2020-07-27 11:01:05,161-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 11:01:05,161-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 11:01:05,161-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 11:01:05,161-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 11:01:05,161-keywordcase.py[56]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 11:01:05,173-keywordcase.py[40]-INFO-run_main:res =<selenium.webdriver.remote.webelement.WebElement (session="0e3df63907fc1229ef75857a622692f8", element="0229f72d-09c6-479f-ab1e-ad466eef2a19")>
+2020-07-27 11:01:05,176-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:01:05,176-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:01:05,176-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 11:01:05,176-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:05,176-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:05,176-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:01:05,240-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:05,240-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:01:05,240-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:01:05,240-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:05:33,373-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 11:05:33,373-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:05:33,373-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:05:33,373-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 11:05:33,374-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:33,374-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 11:05:33,374-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:05:38,683-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:38,683-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:05:38,684-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:38,684-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:05:38,684-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:05:38,685-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:05:38,685-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 11:05:38,685-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:38,686-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 11:05:38,686-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:05:39,250-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:39,250-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:05:39,250-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:39,250-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:05:39,250-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:05:39,250-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:05:39,250-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 11:05:39,250-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 11:05:39,250-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 11:05:39,251-keywordcase.py[56]-INFO-run_method:send_value =es_superadmin
+2020-07-27 11:05:39,251-keywordcase.py[59]-INFO-run_method:handle_value =username
+2020-07-27 11:05:39,407-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:39,407-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:05:39,407-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:39,407-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:05:39,407-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:05:39,407-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:05:39,407-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 11:05:39,407-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 11:05:39,407-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 11:05:39,407-keywordcase.py[56]-INFO-run_method:send_value =123456
+2020-07-27 11:05:39,407-keywordcase.py[59]-INFO-run_method:handle_value =password
+2020-07-27 11:05:39,512-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:39,513-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:05:39,513-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:39,513-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:05:39,513-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:05:39,513-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:05:39,513-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 11:05:39,513-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:39,513-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 11:05:39,513-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:05:39,611-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:39,612-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:05:39,612-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:39,612-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:05:39,612-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:05:39,612-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:05:39,612-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 11:05:39,612-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 11:05:39,612-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:39,612-keywordcase.py[56]-INFO-run_method:send_value =2.0
+2020-07-27 11:05:41,613-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 11:05:41,613-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 11:05:41,614-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 11:05:41,614-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 11:05:41,615-keywordcase.py[56]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 11:05:41,652-keywordcase.py[40]-INFO-run_main:res =<selenium.webdriver.remote.webelement.WebElement (session="428858e6a0ada147fd3afcb0382649d2", element="90f27e39-8f07-4b6b-bacd-a91fb948cc5f")>
+2020-07-27 11:05:41,660-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:05:41,661-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:05:41,661-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 11:05:41,661-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:41,662-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:41,662-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:05:41,727-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:41,728-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:05:41,728-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:05:41,728-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:06:29,290-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 11:06:29,290-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:06:29,290-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:06:29,290-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 11:06:29,291-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:29,291-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 11:06:29,291-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:06:34,501-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:34,501-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:06:34,502-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:34,502-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:06:34,503-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:06:34,503-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:06:34,503-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 11:06:34,504-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:34,504-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 11:06:34,505-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:06:35,173-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:35,173-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:06:35,173-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:35,173-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:06:35,173-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:06:35,173-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:06:35,173-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 11:06:35,173-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 11:06:35,173-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 11:06:35,173-keywordcase.py[56]-INFO-run_method:send_value =es_superadmin
+2020-07-27 11:06:35,173-keywordcase.py[59]-INFO-run_method:handle_value =username
+2020-07-27 11:06:35,344-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:35,344-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:06:35,345-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:35,345-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:06:35,345-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:06:35,345-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:06:35,345-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 11:06:35,345-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 11:06:35,345-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 11:06:35,345-keywordcase.py[56]-INFO-run_method:send_value =123456
+2020-07-27 11:06:35,345-keywordcase.py[59]-INFO-run_method:handle_value =password
+2020-07-27 11:06:35,471-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:35,471-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:06:35,471-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:35,472-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:06:35,472-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:06:35,472-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:06:35,472-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 11:06:35,472-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:35,472-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 11:06:35,472-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:06:35,546-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:35,546-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:06:35,546-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:35,547-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:06:35,547-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:06:35,547-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:06:35,547-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 11:06:35,547-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 11:06:35,547-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:35,548-keywordcase.py[56]-INFO-run_method:send_value =2.0
+2020-07-27 11:06:37,548-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 11:06:37,548-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 11:06:37,548-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 11:06:37,548-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 11:06:37,548-keywordcase.py[56]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 11:06:37,559-keywordcase.py[40]-INFO-run_main:res =<selenium.webdriver.remote.webelement.WebElement (session="b93933fc2bbdcd121a799cd7f5a7f46c", element="74587ce9-979e-4c07-bc7f-77d64c393d63")>
+2020-07-27 11:06:37,567-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:06:37,567-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:06:37,567-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 11:06:37,567-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:37,567-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:37,567-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:06:37,654-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:37,654-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:06:37,655-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:06:37,655-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:08:00,314-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 11:08:00,315-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:08:00,315-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:08:00,315-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 11:08:00,315-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:00,315-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 11:08:00,315-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:08:05,561-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:05,561-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:08:05,561-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:05,561-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:08:13,578-operate_excel.py[33]-INFO-get_lines:8
+2020-07-27 11:08:13,578-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:08:13,578-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:08:13,579-operate_excel.py[43]-INFO-get_cell_data:open_broswer
+2020-07-27 11:08:13,579-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:13,579-operate_excel.py[43]-INFO-get_cell_data:chrome
+2020-07-27 11:08:13,579-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:08:18,782-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:18,782-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:08:18,783-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:18,783-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:08:18,792-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:08:18,792-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:08:18,793-operate_excel.py[43]-INFO-get_cell_data:get_url
+2020-07-27 11:08:18,793-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:18,793-operate_excel.py[43]-INFO-get_cell_data:http://192.168.0.37:8581/#/login
+2020-07-27 11:08:18,793-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:08:19,323-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:19,323-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:08:19,323-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:19,324-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:08:19,328-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:08:19,329-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:08:19,329-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 11:08:19,329-operate_excel.py[43]-INFO-get_cell_data:es_superadmin
+2020-07-27 11:08:19,329-operate_excel.py[43]-INFO-get_cell_data:username
+2020-07-27 11:08:19,329-keywordcase.py[56]-INFO-run_method:send_value =es_superadmin
+2020-07-27 11:08:19,329-keywordcase.py[59]-INFO-run_method:handle_value =username
+2020-07-27 11:08:19,486-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:19,486-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:08:19,486-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:19,486-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:08:19,490-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:08:19,490-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:08:19,490-operate_excel.py[43]-INFO-get_cell_data:element_send_keys
+2020-07-27 11:08:19,490-operate_excel.py[43]-INFO-get_cell_data:123456
+2020-07-27 11:08:19,490-operate_excel.py[43]-INFO-get_cell_data:password
+2020-07-27 11:08:19,491-keywordcase.py[56]-INFO-run_method:send_value =123456
+2020-07-27 11:08:19,491-keywordcase.py[59]-INFO-run_method:handle_value =password
+2020-07-27 11:08:19,596-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:19,596-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:08:19,596-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:19,596-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:08:19,599-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:08:19,600-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:08:19,600-operate_excel.py[43]-INFO-get_cell_data:element_click
+2020-07-27 11:08:19,600-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:19,600-operate_excel.py[43]-INFO-get_cell_data:loginbtn
+2020-07-27 11:08:19,600-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:08:19,691-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:19,692-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:08:19,692-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:19,692-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:08:19,697-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:08:19,698-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:08:19,698-operate_excel.py[43]-INFO-get_cell_data:sleep_time
+2020-07-27 11:08:19,698-operate_excel.py[43]-INFO-get_cell_data:2.0
+2020-07-27 11:08:19,698-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:19,698-keywordcase.py[56]-INFO-run_method:send_value =2.0
+2020-07-27 11:08:21,699-operate_excel.py[43]-INFO-get_cell_data:get_expect_element
+2020-07-27 11:08:21,699-keywordcase.py[33]-INFO-run_main:expect_method=get_expect_element
+2020-07-27 11:08:21,700-operate_excel.py[43]-INFO-get_cell_data:element>//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 11:08:21,700-keywordcase.py[36]-INFO-run_main:expect_value = ['element', '//*[@id="app"]/div/div[1]/div[1]/a/img']
+2020-07-27 11:08:21,701-keywordcase.py[56]-INFO-run_method:send_value =//*[@id="app"]/div/div[1]/div[1]/a/img
+2020-07-27 11:08:21,746-keywordcase.py[40]-INFO-run_main:res =<selenium.webdriver.remote.webelement.WebElement (session="6f64350a2ed7fba74364f158fb764758", element="ca3a99d3-2815-45d1-8114-8bb7503cdd3b")>
+2020-07-27 11:08:21,762-operate_excel.py[43]-INFO-get_cell_data:y
+2020-07-27 11:08:21,762-keywordcase.py[26]-INFO-run_main:is_run = y
+2020-07-27 11:08:21,763-operate_excel.py[43]-INFO-get_cell_data:close_broswer
+2020-07-27 11:08:21,763-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:21,763-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:21,764-keywordcase.py[56]-INFO-run_method:send_value =
+2020-07-27 11:08:21,840-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:21,840-keywordcase.py[33]-INFO-run_main:expect_method=
+2020-07-27 11:08:21,841-operate_excel.py[43]-INFO-get_cell_data:
+2020-07-27 11:08:21,841-keywordcase.py[36]-INFO-run_main:expect_value = ['']
+2020-07-27 11:10:46,093-run_case.py[14]-INFO-test_case01:C:\Users\luoqi\PycharmProjects\seleniumTest\report\report.html
