@@ -3,7 +3,7 @@ import unittest
 from business.login import loginBusiness
 from selenium import webdriver
 from utils.get_config import getConfig
-import outcome
+#import outcome
 import  sys
 import os
 class loginCase(unittest.TestCase):

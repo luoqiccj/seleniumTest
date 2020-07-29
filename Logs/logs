@@ -1615,3 +1615,13 @@
 2020-07-27 11:08:21,841-operate_excel.py[43]-INFO-get_cell_data:
 2020-07-27 11:08:21,841-keywordcase.py[36]-INFO-run_main:expect_value = ['']
 2020-07-27 11:10:46,093-run_case.py[14]-INFO-test_case01:C:\Users\luoqi\PycharmProjects\seleniumTest\report\report.html
+2020-07-27 12:25:46,354-run_case.py[20]-INFO-test_case01:E:\study\git\seleniumTest\report\report.html
+2020-07-27 17:41:14,992-run_case.py[20]-INFO-test_case01:E:\study\git\seleniumTest\report\report.html
+2020-07-28 14:21:13,695-run_case.py[20]-INFO-test_case01:E:\study\git\seleniumTest\report\report.html
+2020-07-28 14:22:19,870-run_case.py[20]-INFO-test_case01:E:\study\git\seleniumTest\report\report.html
+2020-07-28 14:23:12,237-run_case.py[20]-INFO-test_case01:E:\study\git\seleniumTest\report\report.html
+2020-07-28 14:25:23,325-run_case.py[20]-INFO-test_case01:E:\study\git\seleniumTest\report\report.html
+2020-07-28 14:25:43,980-run_case.py[20]-INFO-test_case01:E:\study\git\seleniumTest\report\report.html
+2020-07-28 14:28:13,812-run_case.py[20]-INFO-test_case01:E:\study\git\seleniumTest\report\report.html
+2020-07-28 15:28:43,271-run_case.py[20]-INFO-test_case01:E:\study\git\seleniumTest\report\report.html
+2020-07-28 16:35:31,088-run_case.py[20]-INFO-test_case01:E:\study\git\seleniumTest\report\report.html
